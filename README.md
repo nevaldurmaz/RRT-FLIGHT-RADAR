@@ -18,9 +18,8 @@ Bootstrap: Duyarlı tasarım için tercih edilen CSS framework'ü.
 React-Paginate: Uçuş listesinin sayfalama işlemleri için kullanıldı.
 Leaflet ve React-Leaflet: Uçak konumlarını harita üzerinde görüntülemek için kullanıldı.
 Axios: API veri çekme işlemleri için kullanıldı.
-Rapid API: API istekleri için kullanıldı.
+Rapid API: API istekleri için kullanıldı
 
-# ✈️
-
-![Flight Radar Demo](/Users/nevaldurmaz/Desktop/Öğelerle Yeni Klasör/radarr.gif)
 # RRT-FLIGHT-RADAR
+![radarr](https://github.com/user-attachments/assets/1dc206ab-50eb-4588-b095-077212a77fce)
+
